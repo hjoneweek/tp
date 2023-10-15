@@ -7,11 +7,11 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
-        "jane-doe": "Jane Doe",
-        "johnny-doe": "Johnny Doe",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "darren-low": "Darren Low",
+        "kim-hanjoo": "Kim Hanjoo",
+        "adam-ang-zi-jun": "Adam Ang Zi Jun",
+        "lin-yuxiang": "Lin Yuxiang",
+        "ryan-ong-wei-xian": "Ryan Ong Wei Xian"
       },
       "headingKeywords": {}
     },
@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "medbook-developer-guide": "MedBook Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -58,6 +58,7 @@
         "product-scope": "Product scope",
         "user-stories": "User stories",
         "use-cases": "Use cases",
+        "use-case-uc08-searching-for-patients": "Use Case: UC08 - Searching for Patients",
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
@@ -107,15 +108,18 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "medbook-user-guide": "MedBook User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
-        "adding-a-person-add": "Adding a person: add",
+        "adding-a-patient-addpatient": "Adding a patient: addpatient",
+        "adding-medical-records-addrecord": "Adding Medical Records : 'addrecord'",
         "listing-all-persons-list": "Listing all persons : list",
-        "editing-a-person-edit": "Editing a person : edit",
-        "locating-persons-by-name-find": "Locating persons by name: find",
-        "deleting-a-person-delete": "Deleting a person : delete",
+        "view-patient-detail": "View patient detail",
+        "editing-detail-of-a-patient-editdetail": "Editing detail of a patient : editdetail",
+        "locating-persons-by-keywords-search": "Locating persons by keywords: search",
+        "deleting-a-patient-delete": "Deleting a patient : delete",
+        "pinning-a-patient-pin": "Pinning a patient : pin",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
@@ -136,10 +140,42 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
+      "src": "team/adammangzijun.md",
+      "title": "Adam's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-medbook": "Project: MedBook"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/clin-lyx.md",
+      "title": "Lin Yuxiang's Project Portfolio Page",
+      "headings": {
+        "project-medbook": "Project Medbook"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/darren159.md",
+      "title": "Darren's Project Portfolio Page",
+      "headings": {
+        "project-medbook": "Project: MedBook"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/hjoneweek.md",
+      "title": "Hanjoo's Project Portfolio Page",
+      "headings": {
+        "project-medbook": "Project: MedBook"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/ryanongwx.md",
+      "title": "Ryan's Project Portfolio Page",
+      "headings": {
+        "project-medbook": "Project: MedBook"
       },
       "headingKeywords": {}
     },
